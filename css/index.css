@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/1712651.jpg");
+}
+.mainText{
+    color: white;
+    font-weight: bolder;
+}
+p{
+    color: white;
+}
+.SneakerDiv{
+     margin: 10% 3% 3% 3%;
+     background-image: url("https://wallpaperaccess.com/full/1601024.jpg");
+}
+.row{
+    padding: 5% 5% 5% 5%;
+}
+.xxx{
+    padding-bottom: 3%;
+    color: white;
+    font-weight: bolder;
+}
+
