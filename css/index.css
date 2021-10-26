@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body{
     background-image: url("https://wallpaperaccess.com/full/1712651.jpg");
 }
@@ -20,6 +23,9 @@ p{
     color: white;
     font-weight: bolder;
 }
+.row{
+    margin-top: 5%;
+}
 img{
     background-blend-mode: lighten;
     background: rgba( 255, 255, 255, 0 );
@@ -31,5 +37,9 @@ img{
 }
 .button{
     color: white;
+}
+.justDOiT{
+    width: 350px;
+    height: 350px;
 }
 
