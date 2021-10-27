@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 body{
     background-image: url("https://wallpaperaccess.com/full/1712651.jpg");
 }
@@ -42,4 +40,19 @@ img{
     width: 350px;
     height: 350px;
 }
-
+.SneakerDiv{
+    text-align: center;
+}
+.cardImageView{
+    width: 350px;
+    height: 230px;
+}
+.card-body{
+    text-align: center;
+}
+.btn-primary{
+    color: #8E05C2;
+}
+.sneakerText{
+    padding-top: 5%;
+}
