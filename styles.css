@@ -24,16 +24,23 @@ p{
 .row{
     margin-top: 5%;
 }
-.image{
-    margin: 5% 5% 5% 10%;
+.image1{
+    margin: 5% 5% 5% 0%;
    
+}
+.image2{
+    margin: 5% 5% 5% 5%;
+    width: 350px;
+    height: 350px;
+}
+.image3{
+    margin:  5% 0% 5% 0%;
+}
+.card{
+    margin: 3% 0% 3% 5%;
 }
 .button{
     color: white;
-}
-.justDOiT{
-    width: 350px;
-    height: 350px;
 }
 .SneakerDiv{
     text-align: center;
